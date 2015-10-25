@@ -1,0 +1,1 @@
+# diceware-word-list-slovak

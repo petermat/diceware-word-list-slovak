@@ -6,15 +6,15 @@ TBA
 
 TBA
 
-## Alternation of passprase to match strict criteria
+## Alternation of pass-phrase to match strict criteria
 
-Strict critera requiere:
+Strict criteria require:
 - at least 2 capital letters
 - at least 2 numbers
 - at least 1 special character
 
 ------
-sorces:
+sources:
 
 http://world.std.com/~reinhold/diceware.html
 http://world.std.com/~reinhold/dicewarekit.html
